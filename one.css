@@ -1,0 +1,9 @@
+body { margin: 0; text-align: center;}
+#n, #f, #e { display:inline-flex; flex-wrap:wrap}
+header { background-color: lightgray; height: 55px; text-align: center;}
+section { background-color: grey;width: 755px; height:630px; margin-top: 5px; margin-bottom: 5px;}
+#b{ background-color:lightskyblue ; height:200px; width:400px; margin-left: 135px; margin-top: 40px;}
+#a{ background-color: plum; height: 200px; width:400px; margin-left: 135px; margin-top: 55px;}
+footer{ background-color: peru; height: 60px; width: 1600px;}
+aside { background-color: pink; height: 630px; width: 409px; margin-top: 5px; margin-bottom: 5px;}
+nav { background-color: lightcoral; height: 630px; width:409px;margin-top: 5px; margin-bottom: 5px;}
